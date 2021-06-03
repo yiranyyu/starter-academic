@@ -32,12 +32,12 @@ experience:
         Project: Sentence-Level Pretraining for Document-Level RE (2020.07 ~ 2021.03)
 
         * Designed Sentence-Level ELECTRA pretraining task to learn better sentence representation from large corpus.
-        * Disigned Entity Context Prediction pretraining task to learn better entity representation from large corpus.
-        * Improved F1 score on DocRED comparing to BERT-based baseline by fine-tuning with above.
+        * Designed Entity Context Prediction pretraining task to learn better entity representation from large corpus.
+        * Improved F1 score on DocRED comparing to BERT-based baseline by fine-tuning using devised tasks.
 
         Project: Joint Extraction of Evidence and Relation for Document-Level RE (2019.11 ~ 2020.07)
 
-        * Jointly extract evidence and relation to help both evidence extraction and relation extraction.
+        * Jointly extract evidence and relation in RE task to help both evidence extraction and relation extraction.
         * Devised a bilinear based entity feature extraction module to improve the relation extraction performance.
         * Improved relation extraction F1 score on DocRED using a novel evidence-guided-attention mechanism.
 
@@ -47,7 +47,10 @@ experience:
     location: Beijing, China
     date_start: '2020-09-07'
     date_end: '2020-12-15'
-    description: Design and implement algorithm for RE-ID.
+    description: |2-
+        * Designed algorithm for RE-ID using sub-graph to capture local context, which was further used in downstream real applications.
+        * Designed a de-noising algorithm to automate data cleaning.
+        * Designed a large-scale data generation pipeline to reduce the cost of manual labeling.
 
   - title: Research Assistant
     company: Beihang University
@@ -59,8 +62,8 @@ experience:
         Project: Cross-Modal Omni Interaction Modeling for Phrase Grounding
 
         * Adressed the phrase grounding accuracy problem as the primary researcher.
-        * Devised a novel model to capture complex spatial and semantic relationship among image regions and phrases through multi-level multi-modal interactin.
-        * THe new method improved the grounding accuracy for 6.15% on Flickr30K Entities and 21.25% on ReferItGame.
+        * Devised a novel model to capture complex spatial and semantic relationship among image regions and phrases through multi-level multi-modal interaction.
+        * The new method improved the grounding accuracy by 6.15% on Flickr30K Entities and 21.25% on ReferItGame.
 
 design:
   columns: '2'
