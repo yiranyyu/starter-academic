@@ -21,10 +21,10 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 education:
   courses:
-    - course: MEng in Computer Technology
+    - course: M.Eng. in Computer Technology
       institution: Tsinghua University
       year: 2021 ~ now
-    - course: BSc in Software Engineering
+    - course: B.Eng. in Software Engineering
       institution: Beihang University
       year: 2017 ~ 2021
 email: ""
