@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Tsinghua University THUNLP
+    company: Tsinghua University, THUNLP
     company_url: 'https://nlp.csai.tsinghua.edu.cn/'
     location: Beijing, China
     date_start: '2019-10-01'
@@ -42,7 +42,7 @@ experience:
         * Improved relation extraction F1 score on DocRED using a novel evidence-guided-attention mechanism.
 
   - title: Computer Vision Algorithm Engineer
-    company: YITUTech
+    company: YITU Tech
     company_url: 'https://www.yitutech.com/en'
     location: Beijing, China
     date_start: '2020-09-07'
