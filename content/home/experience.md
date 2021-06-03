@@ -26,7 +26,7 @@ experience:
     company: THUNLP
     company_url: 'https://nlp.csai.tsinghua.edu.cn/'
     location: Beijing, China
-    date_start: '2019-10'
+    date_start: '2019-10-01'
     date_end: ''
     description: |2-
         Project: PLM
@@ -39,16 +39,16 @@ experience:
     company: YITUTech
     company_url: 'https://www.yitutech.com/en'
     location: Beijing, China
-    date_start: '2020-09'
-    date_end: '2020-12'
+    date_start: '2020-09-07'
+    date_end: '2020-12-15'
     description: Design and implement algorithm for RE-ID.
 
   - title: Research Assistant
     company: Beihang University
     company_url: 'https://ev.buaa.edu.cn/'
     location: Beijing, China
-    date_start: '2019-10'
-    date_end: '2020-07'
+    date_start: '2019-10-01'
+    date_end: '2020-07-01'
     description: |2-
         Project: Cross-Modal Omni Interaction Modeling for Phrase Grounding
 
