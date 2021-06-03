@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: yiranytianyu@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/yiranyyu
@@ -25,10 +25,10 @@ education:
   courses:
     - course: MEng in Computer Science
       institution: Tsinghua University
-      year: 2021
+      year: 2021 ~ now
     - course: BSc in Software Engineering
       institution: Beihang University
-      year: 2017
+      year: 2017 ~ 2021
 email: ""
 superuser: true
 highlight_name: false
