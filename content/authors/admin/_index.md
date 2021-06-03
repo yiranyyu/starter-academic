@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yiranytianyu@gmail.com
+    link: mailto:yiranytianyu@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/yiranyyu
