@@ -19,8 +19,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/tianyu-yu-85388917b/
 organizations:
-  - name: Beihang University
-    url: https://ev.buaa.edu.cn/
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
 education:
