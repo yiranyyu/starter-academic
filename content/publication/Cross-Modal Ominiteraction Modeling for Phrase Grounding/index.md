@@ -26,8 +26,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Multimedia*
-publication_short: In *ICW*
+publication: In *ACM Multimedia 2020*
+publication_short: In *ACM MM*
 
 tags: []
 
@@ -35,9 +35,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
-  url: https://dl.acm.org/doi/10.1145/3394171.3413846
+# links:
+# - name: Paper
+#   url: https://dl.acm.org/doi/10.1145/3394171.3413846
 
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3394171.3413846'
 url_code: 'https://github.com/yiranyyu/Phrase-Grounding'
@@ -60,8 +60,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
