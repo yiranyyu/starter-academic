@@ -1,6 +1,7 @@
 ---
 title: Tianyu Yu
 role: Research Assistant
+avatar_filename: 半身照.jpeg
 bio: My research interests include natural language processing, computer vision
   and knowledge discovery.
 interests:
