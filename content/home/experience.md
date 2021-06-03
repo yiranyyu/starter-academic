@@ -23,19 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-      company: THUNLP
-      company_url: 'https://nlp.csai.tsinghua.edu.cn/'
-      location: Beijing, China
-      date_start: '2019-10'
-      date_end: ''
-      description: |2-
-          Project: PLM
+    company: THUNLP
+    company_url: 'https://nlp.csai.tsinghua.edu.cn/'
+    location: Beijing, China
+    date_start: '2019-10'
+    date_end: ''
+    description: |2-
+        Project: PLM
 
-          * Adressed the phrase grounding accuracy problem as the primary researcher.
-          * Devised a novel model to capture complex spatial and semantic relationship among image regions and phrases through multi-level multi-modal interactin.
-          * THe new method improved the grounding accuracy for 6.15% on Flickr30K Entities and 21.25% on ReferItGame.
+        * Adressed the phrase grounding accuracy problem as the primary researcher.
+        * Devised a novel model to capture complex spatial and semantic relationship among image regions and phrases through multi-level multi-modal interactin.
+        * THe new method improved the grounding accuracy for 6.15% on Flickr30K Entities and 21.25% on ReferItGame.
 
-- title: Computer Vision Algorithm Engineer
+  - title: Computer Vision Algorithm Engineer
     company: YITUTech
     company_url: 'https://www.yitutech.com/en'
     location: Beijing, China
@@ -43,7 +43,7 @@ experience:
     date_end: '2020-12'
     description: Design and implement algorithm for RE-ID.
 
-- title: Research Assistant
+  - title: Research Assistant
     company: Beihang University
     company_url: 'https://ev.buaa.edu.cn/'
     location: Beijing, China
