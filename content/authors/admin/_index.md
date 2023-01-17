@@ -1,6 +1,6 @@
 ---
 title: Tianyu Yu
-role: Research Assistant
+role: M.S. in Computer Technology
 avatar_filename: avatar.jpg
 interests:
   - Computational Linguistics
@@ -21,7 +21,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 education:
   courses:
-    - course: M.Eng. in Computer Technology
+    - course: M.S. in Computer Technology
       institution: Tsinghua University
       year: 2021 ~ now
     - course: B.Eng. in Software Engineering
