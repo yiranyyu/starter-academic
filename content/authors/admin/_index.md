@@ -3,8 +3,8 @@ title: Tianyu Yu
 role: M.S. in Computer Technology
 avatar_filename: avatar.jpg
 interests:
-  - Computational Linguistics
-  - Multimodal Understanding
+  - Multimodal Large Lanuage Models
+  - Learning from Feedback
   - Information Retrieval
 social:
   - icon: envelope
