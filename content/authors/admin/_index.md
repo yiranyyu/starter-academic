@@ -1,5 +1,5 @@
 ---
-title: Tianyu Yu
+title: **Tianyu Yu**
 role: M.S. in Computer Technology
 avatar_filename: avatar.jpg
 interests:
