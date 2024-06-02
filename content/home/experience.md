@@ -29,18 +29,17 @@ experience:
     date_start: '2019-10-01'
     date_end: ''
     description: |2-
+        Project: Mitigating MLLM Hallucination with AI Feedback (2023.12 ~ 2024.06)
+
+        Project: Mitigating MLLM Hallucination with Fine-grained Correctional Human Feedback (2023.07 ~ 2023.12)
+
+        Project: Reformulating VLMs to construct MLLMs (2023.02 ~ 2023.07)
+
+        Project: Extract Common-sense Knowledge from Multimodal Corpora (2021.04 ~ 2022.12)
+
         Project: Sentence-Level Pretraining for Document-Level RE (2020.07 ~ 2021.03)
 
-        * Designed Sentence-Level ELECTRA pretraining task to learn better sentence representation from large corpus.
-        * Designed Entity Context Prediction pretraining task to learn better entity representation from large corpus.
-        * Improved F1 score on DocRED comparing to BERT-based baseline by fine-tuning using devised tasks.
-
         Project: Joint Extraction of Evidence and Relation for Document-Level RE (2019.10 ~ 2020.05)
-
-        * Jointly extract evidence and relation in RE task to help both evidence extraction and relation extraction.
-        * Devised a bilinear based entity feature extraction module to improve the relation extraction performance.
-        * Usinig Deep Sets to ensure the permutation invariance of evidences and using beam search to improve efficiency.
-        * Improved relation extraction F1 score on DocRED using a novel evidence-guided-attention mechanism.
 
   - title: Computer Vision Algorithm Engineer
     company: YITU Tech
