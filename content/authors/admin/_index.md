@@ -31,6 +31,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Tianyu Yu received his B.S. degree from the Beihang University of China in 2021. He is currently working on Natural Language Processing and Multimodal Understanding, especially in PLM and Visual Relation Extraction.
+Tianyu Yu received his B.S. degree from the Beihang University of China in 2021. He is currently working on Natural Language Processing and Multimodal Understanding, especially in MLLMs.
 
 {{< icon name="download" pack="fas" >}} Download my CV in {{< staticref "uploads/TianyuYu-CV-en.pdf" "newtab" >}}English{{< /staticref >}} or {{< staticref "uploads/TianyuYu-CV-zh.pdf" "newtab" >}}Chinese{{< /staticref >}}.
