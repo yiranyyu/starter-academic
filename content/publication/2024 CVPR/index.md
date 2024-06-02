@@ -15,7 +15,7 @@ authors:
 - Liu Zhiyuan
 - Zheng Hai-Tao
 - Sun Maosong
-- Chua Tat-Seng.
+- Chua Tat-Seng
 
 date: "2024-06"
 
